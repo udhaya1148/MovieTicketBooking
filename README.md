@@ -37,7 +37,7 @@ The Movie Ticket Booking System is a web-based application developed using Java 
 # Order History
 ![order-history](https://github.com/user-attachments/assets/851c4574-b7a3-49e2-9b4b-82bcfdf04d0c)
 
-#Mail Ticket Details
+# Mail Ticket Details
 ![Screenshot_2025-02-09-16-00-35-87_e307a3f9df9f380ebaf106e1dc980bb6](https://github.com/user-attachments/assets/5e682aa3-0046-460f-b7f8-1dbde0a9832d)
 
 
