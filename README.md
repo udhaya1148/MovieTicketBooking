@@ -1,11 +1,6 @@
-# Movie-seat-project
-Spring boot, Movie seat selection mechanism, Spring Data Jpa, Thymeleaf,
+# Overview
+The Movie Ticket Booking System is a web-based application developed using Java Spring Boot that allows users to browse movies, select seats, and book tickets online.
 
-just clone the repo
-$git clone url..
-
-open in eclipse or intellij
-
-Please update the repo and change Jpa configuration acording to your system before run
-And enjoy repo
-
+# User Authentication & Authorization
+Users can register and login
+Role-based access control (Admin, User).
